@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code Visual\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512F0443-4475-4206-9F78-53C00B752E84}|Pong\\Pong.vcxproj|C:\\Code Visual\\Pong\\Pong\\Pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{512F0443-4475-4206-9F78-53C00B752E84}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512F0443-4475-4206-9F78-53C00B752E84}|Pong\\Pong.vcxproj|C:\\Code Visual\\Pong\\Pong\\Ratio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{512F0443-4475-4206-9F78-53C00B752E84}|Pong\\Pong.vcxproj|solutionrelative:Pong\\Ratio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pong.cpp",
+              "DocumentMoniker": "C:\\Code Visual\\Pong\\Pong\\Pong.cpp",
+              "RelativeDocumentMoniker": "Pong\\Pong.cpp",
+              "ToolTip": "C:\\Code Visual\\Pong\\Pong\\Pong.cpp",
+              "RelativeToolTip": "Pong\\Pong.cpp",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAAAEBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:26:34.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ratio.cpp",
+              "DocumentMoniker": "C:\\Code Visual\\Pong\\Pong\\Ratio.cpp",
+              "RelativeDocumentMoniker": "Pong\\Ratio.cpp",
+              "ToolTip": "C:\\Code Visual\\Pong\\Pong\\Ratio.cpp",
+              "RelativeToolTip": "Pong\\Ratio.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T18:27:56.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

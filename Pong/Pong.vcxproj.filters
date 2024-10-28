@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Pong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ratio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="resources\ball.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\paddle1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\paddle2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\soundInGame.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\soundStartGame.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\soundEndGame.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\wall.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\soundEnd2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="resources\sansation.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="resources\fontt.otf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="resources\fontRatio.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\back.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\back in game.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\start_button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\back.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\back (1).jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\boardpng.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\ratioGame.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
